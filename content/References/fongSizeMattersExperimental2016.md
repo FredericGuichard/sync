@@ -3,3 +3,5 @@ Tags: #Algae, #herbivory, #coral-reef, #assembled-community, #fishing, #partitio
 
 Authors: Peggy Fong, Nicholas M. Frazier, Cameron Tompkins-Cook, Ranjan Muthukrishnan, Caitlin R. Fong
 Zotero link:
+DOI: \[\[]]
+Source: https://onlinelibrary.wiley.com/doi/abs/10.1111/maec.12298
