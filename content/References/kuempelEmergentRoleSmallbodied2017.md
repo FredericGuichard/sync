@@ -3,7 +3,7 @@ Tags:
 
 Authors: Caitlin D. Kuempel, Andrew H. Altieri
 Zotero link: [10.1038\_srep39670.pdf](zotero://select/library/items/Z5WZ3QPE)
-DOI: \[\[]]
+DOI:
 Source: https://doi.org/10.1038/srep39670
 
 # Yellow⭐ Interesting point
