@@ -1,3 +1,7 @@
+### Logistic
+
+- see [[Fieldwork Logistics (Rimouski 2026)#Finances]]
+
 ### Experimental design
 
 #### Treatments
@@ -11,7 +15,7 @@
 
 ![[samplingDesign.png]]
 
-#### Site selection criteria
+#### Semi-random site selection criteria
 
 - Blocks and cores within blocks need to be randomly selected
 - selection criteria:
