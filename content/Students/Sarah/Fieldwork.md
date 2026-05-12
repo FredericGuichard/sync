@@ -11,6 +11,7 @@
 - Block (nested within Meadow)
 - Transplant (resident, transplanted)
 - Defaunation (live, defaunated)
+- Control
 ```
 
 #### Sample size
