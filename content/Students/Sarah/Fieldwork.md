@@ -13,6 +13,11 @@
 - Defaunation (live, defaunated)
 ```
 
+#### Sample size
+
+- 2 Meadow \* 5  Blocks \* (2 Transplants \* 2 Defaunations + 1 control) = 50 cores
+- You could have a minimum of 4 Blocks, but I would prioritize getting 5 Blocks
+
 ![[samplingDesign.png]]
 
 #### Semi-random site selection criteria
