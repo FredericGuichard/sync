@@ -34,4 +34,4 @@
 
 #### Defaunation
 
-- Ex-situ freezing works but crystal formation can affect sediment and biogeochemistry of sediments. It will also leave a few resistant species alive. Freezing and oven heating are 2 good ways of defaunating even if they each have distinct impacts on the sediment properties in addition to the defaunation itself \[@tolhurstTechnicalNoteEffects2012]  [[tolhurstTechnicalNoteEffects2012|(see notes)]]
+- Ex-situ freezing works but crystal formation can affect sediment and biogeochemistry of sediments. It will also leave a few resistant species alive. Freezing and oven heating are 2 good ways of defaunating even if they each have distinct impacts on the sediment properties in addition to the defaunation itself @tolhurstTechnicalNoteEffects2012  [[tolhurstTechnicalNoteEffects2012|(see notes)]]
