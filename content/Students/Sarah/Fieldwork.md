@@ -34,4 +34,22 @@
 
 #### Defaunation
 
-- Ex-situ freezing works but crystal formation can affect sediment and biogeochemistry of sediments. It will also leave a few resistant species alive. Freezing and oven heating are 2 good ways of defaunating even if they each have distinct impacts on the sediment properties in addition to the defaunation itself @tolhurstTechnicalNoteEffects2012  [[tolhurstTechnicalNoteEffects2012|(see notes)]]
+- Ex-situ freezing works but crystal formation can affect sediment and biogeochemistry of sediments. It might also leave a few resistant species alive. Freezing and oven heating are 2 good ways of defaunating even if they each have distinct impacts on the sediment properties in addition to the defaunation itself \[@tolhurstTechnicalNoteEffects2012]  [[tolhurstTechnicalNoteEffects2012|(see notes)]]
+
+#### Transplant methodology (tentative)
+
+##### Equipment
+
+- Core sampler
+- Cage
+- trowel (optional)
+- plastic bags
+
+##### Procedure
+
+- Push core sampler into sediment at desired depth
+- Remove the core
+  - if necessary use trowel to prevent losses from bottom
+- Push sediment core into cage
+  - house cage in plastic bag during transfer if necessary
+- Push cage into recipient hole or collect in plastic bag to bring back to lab
