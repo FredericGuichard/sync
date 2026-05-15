@@ -41,7 +41,7 @@
 ##### Equipment
 
 - Core sampler
-- Cage
+- Cage ($250\mu m$ ok but will prevent macro colonizers from sides)
 - trowel (optional)
 - plastic bags
 
