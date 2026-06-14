@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-05-10T16:24:47.810-04:00
-modified: 2026-05-10T17:06:37.358-04:00
+modified: 2026-06-12T15:21:21.423-04:00
 ---
 
 ### Draft
@@ -21,3 +21,5 @@ modified: 2026-05-10T17:06:37.358-04:00
 - [kuempelEmergentRoleSmallbodied2017](zotero://select/library/items/D4JSBPA2) showed strong effect of small grazers, but they represented 95 % of biomass in their system (Bocas). You do cite this one but we need to compare our contrasting results in the Discussion. They interpret their results based on the degraded state of their system. Bellairs certainly falls in that category and we still observe a dominant effect of large grazers. Their mesh sizes are different, see result here: [[kuempelEmergentRoleSmallbodied2017]]
 
 - [fongSizeMattersExperimental2016](zotero://select/groups/5551208/items/LXPU9WTC) showed mesh size could reduce herbivory in smaller mesh size cages (3cm) on a fringing reef [[fongSizeMattersExperimental2016]]
+
+- [[2026-06-12]] -  recenter novelty around Henri's comment on the mesh size corresponding to fishing nets/cages, and on the regional focus. Remove emphasis on nutrients. Add figure and discussion of ash weight as a measure of sediment load.
