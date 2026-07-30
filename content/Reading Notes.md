@@ -1,7 +1,7 @@
 ---
 publish: true
 created: 2026-04-09T15:11:40.211-04:00
-modified: 2026-07-19T16:00:34.166-04:00
+modified: 2026-07-30T14:44:52.005-04:00
 ---
 
 ### Transient pulse-press dynamics
@@ -35,3 +35,13 @@ modified: 2026-07-19T16:00:34.166-04:00
 
 #marine  #bef
 \[@dunnSalinityGradientMediates2026] show salinity gradient drives richness and stability rather than richness being related to biomass production or stability over 25 years. Stability is driven by dominant species (low richness) or asynchrony (high richness)
+
+### Reduced model predict tipping points in large mutualistic networks
+
+#theory #non-trophic #tipping-points
+\[@jiangHarnessingTippingPoints2019] show a large pollinator-flower mutualistic network based on type II functional responses show tipping point of global extinction as mutualistic interaction strength decreases. This can be rescued by controlloed species because they maintain positive eigenvalues of interacting species for longer. This behavior is well predicted by a reduced 2D model of aggregated pollinator and flower compartments. The unstable node predict the onset of the tipping point. Important context for [[IVADO]] proposal.
+
+### Method to analyse cyclical community trajectories
+
+#method #nonequilibrium #statistics
+\[@djeghriGoingCyclesGoing2026a] extend community trajectory analysis to cyclical dynamics without reducing dimensionality. Seems limited to forced cycles (don't see why in principle). Could be useful for [[Shuaishuai]]
